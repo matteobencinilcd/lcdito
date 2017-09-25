@@ -21,7 +21,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 1024,
-    "width": 1440,
+    "width": 320,
     "x": -43,
     "y": -52
   },
@@ -39,35 +39,15 @@
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "C75F09DC-035D-47CE-A9C1-130F6DE0E6F8"
+      "id": "62D877C2-0DF7-42BF-ACCD-CAB612CFEB08"
     },
     {
       "class": "shapeGroup",
-      "id": "C285E61E-33B1-4F0A-ACF3-B0EA11397B01"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "50337F19-847F-47D3-A372-A753EA4C20A2"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "50C2C4F6-1655-43B9-9FD9-215EAF1DE7DF"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "FF70E5BF-821F-4AC3-895D-5D124F130265"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "7BBFD7FC-3C03-4817-A73B-289D8C1BD8D3"
-    },
-    {
-      "class": "shapeGroup",
-      "id": "DFD0BFE8-36AA-4648-BBA8-5C2206293A4F"
+      "id": "7C63DB1E-F5FB-426F-8517-8FA5658B5F98"
     }
   ],
   "name": "Desktop HD",
