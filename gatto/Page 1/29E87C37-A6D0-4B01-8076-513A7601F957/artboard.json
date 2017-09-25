@@ -21,7 +21,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 1024,
-    "width": 320,
+    "width": 2006,
     "x": -43,
     "y": -52
   },
@@ -48,6 +48,14 @@
     {
       "class": "shapeGroup",
       "id": "7C63DB1E-F5FB-426F-8517-8FA5658B5F98"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A1F1C632-67E1-4133-860A-248A42E2FB5C"
+    },
+    {
+      "class": "text",
+      "id": "F9E7C54D-C171-44C9-A269-A4C68A298288"
     }
   ],
   "name": "Desktop HD",

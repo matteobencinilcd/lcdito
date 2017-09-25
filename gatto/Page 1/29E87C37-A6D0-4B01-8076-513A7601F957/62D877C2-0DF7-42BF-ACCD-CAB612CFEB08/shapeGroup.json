@@ -32,8 +32,8 @@
       "id": "01E2E579-23C9-458E-A357-D01BD526A5EF"
     }
   ],
-  "name": "Rectangle",
-  "nameIsFixed": false,
+  "name": "5674567",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
@@ -56,6 +56,11 @@
         "thickness": 1
       }
     ],
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 0.449999988079071
+    },
     "endDecorationType": 0,
     "fills": [
       {
